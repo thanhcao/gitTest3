@@ -1,0 +1,32 @@
+#accordion-section-awada_kirki h3.accordion-section-title{
+	background: #DB7093;
+	color:#fff;	
+}
+#accordion-section-awada_kirki h3.accordion-section-title:hover{
+	background: #b0547f !important;
+	color:#fff !important;
+}
+#customize-theme-controls #accordion-section-awada_kirki h3.accordion-section-title:after {
+    content: "\f345";
+    color: #fff;
+}
+.awd-btn{
+	background-color: #DB7093; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.awd-btn:hover{
+	background: #b0547f !important;
+	color:#fff !important;
+}
+.customize-control-kirki-switch .switch-off {
+    position: absolute;
+	color: #fff;
+} 

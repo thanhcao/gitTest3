@@ -1,0 +1,1235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Awada\n"
+"POT-Creation-Date: 2019-02-02 14:32+0530\n"
+"PO-Revision-Date: 2019-02-02 14:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: WebHunt\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: lang\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: inc/kirki/assets/js\n"
+
+#: 404.php:5 404.php:8
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:7 functions.php:285
+msgid "Home"
+msgstr ""
+
+#: 404.php:16
+msgid "404!"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Look like something went wrong! The page you were looking for is not here. "
+"<br> Go <a href=\"<?php echo home_url(); ?>\"> Home </a> or try a search."
+msgstr ""
+
+#: archive.php:55 blog-content.php:29 blog-two-sidebar.php:41 functions.php:615
+#: home-blog.php:42 search.php:50
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:55 blog-content.php:29 blog-two-sidebar.php:41 functions.php:619
+#: home-blog.php:42 search.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:55 blog-content.php:29 blog-two-sidebar.php:41 home-blog.php:42
+#: search.php:50
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:55 blog-content.php:29 blog-two-sidebar.php:41 home-blog.php:42
+#: search.php:50
+msgid "Edit"
+msgstr ""
+
+#: breadcrumbs.php:7
+msgid "Shop"
+msgstr ""
+
+#: comments.php:4
+msgid "Please enter password to view or post a comments"
+msgstr ""
+
+#: comments.php:10
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:13
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:16
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:21
+msgid "No Comments &#187;"
+msgstr ""
+
+#: comments.php:21
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:21
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:44
+msgid "Submit Message"
+msgstr ""
+
+#: comments.php:45
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:46
+msgid "Leave a reply"
+msgstr ""
+
+#: customizer.php:62
+msgid "Awada Options"
+msgstr ""
+
+#: customizer.php:63
+msgid "Here you can customize all your site contents"
+msgstr ""
+
+#: customizer.php:67
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: customizer.php:68
+msgid "Change Top bar Background Color"
+msgstr ""
+
+#: customizer.php:88
+msgid "Header Top Bar Text Color"
+msgstr ""
+
+#: customizer.php:89
+msgid "Change Top bar Font/Content Color"
+msgstr ""
+
+#: customizer.php:106
+msgid "Header Background Color"
+msgstr ""
+
+#: customizer.php:107
+msgid "Change Header Background Color"
+msgstr ""
+
+#: customizer.php:127
+msgid "Header Text Color"
+msgstr ""
+
+#: customizer.php:128
+msgid "Change Header Text Color"
+msgstr ""
+
+#: customizer.php:144
+msgid "General Options"
+msgstr ""
+
+#: customizer.php:145
+msgid "Here you can change basic settings of your site"
+msgstr ""
+
+#: customizer.php:154
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer.php:160
+msgid "Default"
+msgstr ""
+
+#: customizer.php:166
+msgid "Green"
+msgstr ""
+
+#: customizer.php:172
+msgid "Coffee"
+msgstr ""
+
+#: customizer.php:178
+msgid "Orange"
+msgstr ""
+
+#: customizer.php:189
+msgid "Topbar Options"
+msgstr ""
+
+#: customizer.php:196
+msgid "Show Top bar"
+msgstr ""
+
+#: customizer.php:205
+msgid "Header Contact Info"
+msgstr ""
+
+#: customizer.php:206
+msgid "Show/Hide contact info bar in header"
+msgstr ""
+
+#: customizer.php:222
+msgid "Contact Email Address"
+msgstr ""
+
+#: customizer.php:250
+msgid "Phone Number"
+msgstr ""
+
+#: customizer.php:278
+msgid "Add Social Media Icons"
+msgstr ""
+
+#: customizer.php:282
+#, php-format
+msgid ""
+"Create a new menu and then add the URL for each social profile to your menu "
+"as a custom link. %1$s Create Now %2$s"
+msgstr ""
+
+#: customizer.php:294
+msgid "Logo Top Spacing"
+msgstr ""
+
+#: customizer.php:322
+msgid "Typography Section"
+msgstr ""
+
+#: customizer.php:323
+msgid "Here you can change Font Style of your site"
+msgstr ""
+
+#: customizer.php:332
+msgid "Logo Font Style"
+msgstr ""
+
+#: customizer.php:333
+msgid "Change logo font family and font style."
+msgstr ""
+
+#: customizer.php:358
+msgid "Logo Subtitle/Description Font Style"
+msgstr ""
+
+#: customizer.php:359
+msgid "Change logo Subtitle/Description font family and font style."
+msgstr ""
+
+#: customizer.php:384
+msgid "Menu Font Style"
+msgstr ""
+
+#: customizer.php:385
+msgid "Change Primary Menu font family and font style."
+msgstr ""
+
+#: customizer.php:411
+msgid "Site Font Style"
+msgstr ""
+
+#: customizer.php:412
+msgid "Change whole site font family and font style."
+msgstr ""
+
+#: customizer.php:433
+msgid "Home Sections Title Font"
+msgstr ""
+
+#: customizer.php:434
+msgid "Change font style of home service, home portfolio, home blog"
+msgstr ""
+
+#: customizer.php:456
+msgid "Layout Options"
+msgstr ""
+
+#: customizer.php:457
+msgid "Here you can change Layout and basic design of your site"
+msgstr ""
+
+#: customizer.php:466
+msgid "Fixed Header"
+msgstr ""
+
+#: customizer.php:467
+msgid "Switch between fixed and static header"
+msgstr ""
+
+#: customizer.php:475
+msgid "Site Layout"
+msgstr ""
+
+#: customizer.php:476
+msgid "Change your site layout to full width or boxed size."
+msgstr ""
+
+#: customizer.php:490
+msgid "Footer Layout"
+msgstr ""
+
+#: customizer.php:491
+msgid "Change footer into 2, 3 or 4 column"
+msgstr ""
+
+#: customizer.php:506
+msgid "Blog Post Layout"
+msgstr ""
+
+#: customizer.php:507
+msgid "Select Blog Layout"
+msgstr ""
+
+#: customizer.php:508
+msgid ""
+"With this option you can select blog left sidebar,right sidebar and full "
+"width"
+msgstr ""
+
+#: customizer.php:522
+msgid "Single Post Layout"
+msgstr ""
+
+#: customizer.php:523
+msgid "Select Post Layout"
+msgstr ""
+
+#: customizer.php:524
+msgid ""
+"With this option you can select single post with left sidebar,right sidebar "
+"and full width"
+msgstr ""
+
+#: customizer.php:538
+msgid "Page Layout"
+msgstr ""
+
+#: customizer.php:539
+msgid "Select Page Layout"
+msgstr ""
+
+#: customizer.php:540
+msgid ""
+"With this option you can select page with left sidebar,right sidebar and "
+"full width"
+msgstr ""
+
+#: customizer.php:554
+msgid "Slider Options"
+msgstr ""
+
+#: customizer.php:555
+msgid "Change slider text(s) and images"
+msgstr ""
+
+#: customizer.php:563
+msgid "Enable Home Slider"
+msgstr ""
+
+#: customizer.php:573
+msgid "Home Slider Style"
+msgstr ""
+
+#: customizer.php:579
+msgid "Slider Style One"
+msgstr ""
+
+#: customizer.php:580
+msgid "Slider Style Two"
+msgstr ""
+
+#: customizer.php:581
+msgid "Slider Using Plugin Shortcode"
+msgstr ""
+
+#: customizer.php:589
+#, php-format
+msgid "Slider %s"
+msgstr ""
+
+#: customizer.php:604
+#, php-format
+msgid "Slider %s Image"
+msgstr ""
+
+#: customizer.php:605
+msgid "Recommended image size is 1600x500px"
+msgstr ""
+
+#: customizer.php:620
+#, php-format
+msgid "Slider %s Title"
+msgstr ""
+
+#: customizer.php:636
+#, php-format
+msgid "Slider %s Subitle"
+msgstr ""
+
+#: customizer.php:653
+msgid "Link this slide to a post or page"
+msgstr ""
+
+#: customizer.php:673 customizer.php:937
+msgid "Select a post"
+msgstr ""
+
+#: customizer.php:694
+msgid "Select a page"
+msgstr ""
+
+#: customizer.php:716
+msgid "Read more button text"
+msgstr ""
+
+#: customizer.php:720 default_options.php:28 default_options.php:32
+#: default_options.php:36 functions.php:235 home-service.php:61
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:743
+msgid "Or Put Slider Plugin Shortcode here"
+msgstr ""
+
+#: customizer.php:759
+msgid "Plugin Shortcode"
+msgstr ""
+
+#: customizer.php:773
+msgid "Service Options"
+msgstr ""
+
+#: customizer.php:780
+msgid "Home Service Heading"
+msgstr ""
+
+#: customizer.php:796
+msgid "Home Service Description"
+msgstr ""
+
+#: customizer.php:812
+msgid "Home Service Column"
+msgstr ""
+
+#: customizer.php:818
+msgid "Two Column"
+msgstr ""
+
+#: customizer.php:819
+msgid "Three Column"
+msgstr ""
+
+#: customizer.php:820
+msgid "Four Column"
+msgstr ""
+
+#: customizer.php:828
+#, php-format
+msgid "Service %s Icon"
+msgstr ""
+
+#: customizer.php:845
+#, php-format
+msgid "Service %s Title"
+msgstr ""
+
+#: customizer.php:862
+#, php-format
+msgid "Service %s Description"
+msgstr ""
+
+#: customizer.php:879
+#, php-format
+msgid "Service %s URL"
+msgstr ""
+
+#: customizer.php:898
+msgid "Portfolio Options"
+msgstr ""
+
+#: customizer.php:905
+msgid "Portfolio Title"
+msgstr ""
+
+#: customizer.php:921
+msgid "Portfolio Subtitle"
+msgstr ""
+
+#: customizer.php:938
+msgid "Select the post in which you have put shortcode."
+msgstr ""
+
+#: customizer.php:947
+msgid "Blog Options"
+msgstr ""
+
+#: customizer.php:954
+msgid "Home Blog Title"
+msgstr ""
+
+#: customizer.php:970
+msgid "Home Blog Description"
+msgstr ""
+
+#: customizer.php:987
+msgid "Blog Load More Posts"
+msgstr ""
+
+#: customizer.php:988
+msgid "Show Posts On Blog Home"
+msgstr ""
+
+#: customizer.php:989 customizer.php:1006
+msgid "With this option you can show blog posts according your requirement"
+msgstr ""
+
+#: customizer.php:1004
+msgid "Category"
+msgstr ""
+
+#: customizer.php:1005
+msgid "Show Posts On Home Blog According to Selected Categories"
+msgstr ""
+
+#: customizer.php:1018
+msgid "Show Load More Button."
+msgstr ""
+
+#: customizer.php:1024
+msgid "Yes"
+msgstr ""
+
+#: customizer.php:1025
+msgid "No"
+msgstr ""
+
+#: customizer.php:1031
+msgid "Number of load more posts."
+msgstr ""
+
+#: customizer.php:1032
+msgid "Number of posts you want to load on \"Load More\" button click"
+msgstr ""
+
+#: customizer.php:1054
+msgid "Strings Used in Home Blog section"
+msgstr ""
+
+#: customizer.php:1062
+msgid "Load More Text"
+msgstr ""
+
+#: customizer.php:1071
+msgid "Loading Text"
+msgstr ""
+
+#: customizer.php:1080
+msgid "No more post Text"
+msgstr ""
+
+#: customizer.php:1089
+msgid "Callout Options"
+msgstr ""
+
+#: customizer.php:1096
+msgid "Banner Background Image"
+msgstr ""
+
+#: customizer.php:1115
+msgid "Or, enter a YouTube URL:"
+msgstr ""
+
+#: customizer.php:1142
+msgid "Callout Title"
+msgstr ""
+
+#: customizer.php:1159
+msgid "Show Footer Callout"
+msgstr ""
+
+#: customizer.php:1175
+msgid "Callout Button Text"
+msgstr ""
+
+#: customizer.php:1192
+msgid "Callout Button URL"
+msgstr ""
+
+#: customizer.php:1210
+msgid "Footer & Copyright Options"
+msgstr ""
+
+#: customizer.php:1217
+msgid "Enable Copyright Text"
+msgstr ""
+
+#: customizer.php:1227
+msgid "Enable Footer Menu (Secondary Menu)"
+msgstr ""
+
+#: customizer.php:1237
+msgid "Enable Footer Widget Section"
+msgstr ""
+
+#: customizer.php:1247
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer.php:1264
+msgid "Developed by Text"
+msgstr ""
+
+#: customizer.php:1281
+msgid "Link Text"
+msgstr ""
+
+#: customizer.php:1298
+msgid "Developed by Link"
+msgstr ""
+
+#: customizer.php:1315
+msgid "Footer Background Color"
+msgstr ""
+
+#: customizer.php:1316
+msgid "Change Footer Background Color"
+msgstr ""
+
+#: customizer.php:1332
+msgid "Footer Text Color"
+msgstr ""
+
+#: customizer.php:1333
+msgid "Change Footer Text Color"
+msgstr ""
+
+#: customizer.php:1349
+msgid "Copyright Section Background Color"
+msgstr ""
+
+#: customizer.php:1350
+msgid "Change Copyright Section Background Color"
+msgstr ""
+
+#: customizer.php:1366
+msgid "Copyright Section Text Color"
+msgstr ""
+
+#: customizer.php:1367
+msgid "Change Copyright Section Text Color"
+msgstr ""
+
+#: customizer.php:1384
+msgid "Home Page Reorder Sections"
+msgstr ""
+
+#: customizer.php:1392
+msgid "Here You can reorder your homepage section"
+msgstr ""
+
+#: customizer.php:1478 customizer.php:1530 customizer.php:1567
+msgid "Upgrade to Awada Premium"
+msgstr ""
+
+#: customizer.php:1489
+msgid "Awada Premium"
+msgstr ""
+
+#: customizer.php:1536
+msgid "awada Premium - Features"
+msgstr ""
+
+#: customizer.php:1538
+msgid "Responsive Design"
+msgstr ""
+
+#: customizer.php:1539
+msgid "Beautiful & Amazing Shortcodes"
+msgstr ""
+
+#: customizer.php:1540
+msgid "More than 25 Page Templates"
+msgstr ""
+
+#: customizer.php:1541
+msgid "2 Types of sliders"
+msgstr ""
+
+#: customizer.php:1542
+msgid "4 Types Service Sections"
+msgstr ""
+
+#: customizer.php:1543
+msgid "Portfolio Sections"
+msgstr ""
+
+#: customizer.php:1544
+msgid "Testimonial Sections"
+msgstr ""
+
+#: customizer.php:1545
+msgid "2 Types Our Features Sections"
+msgstr ""
+
+#: customizer.php:1546
+msgid "Client Sections"
+msgstr ""
+
+#: customizer.php:1547
+msgid "Team Sections"
+msgstr ""
+
+#: customizer.php:1548
+msgid "Magical Fun Facts Style"
+msgstr ""
+
+#: customizer.php:1549
+msgid "Pricing Tables"
+msgstr ""
+
+#: customizer.php:1550
+msgid "3 Types Footer Callouts"
+msgstr ""
+
+#: customizer.php:1551
+msgid "8 Different Types of Blog Templates"
+msgstr ""
+
+#: customizer.php:1552
+msgid "8 Types of Portfolio Templates"
+msgstr ""
+
+#: customizer.php:1553
+msgid "Stylish Custom Widgets"
+msgstr ""
+
+#: customizer.php:1554
+msgid "Redux Options Panel"
+msgstr ""
+
+#: customizer.php:1555
+msgid "Unlimited Colors Scheme"
+msgstr ""
+
+#: customizer.php:1556
+msgid "Patterns Background"
+msgstr ""
+
+#: customizer.php:1557
+msgid "WPML Compatible"
+msgstr ""
+
+#: customizer.php:1558
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: customizer.php:1559
+msgid "Portfolio layout with Isotope effect"
+msgstr ""
+
+#: customizer.php:1560
+msgid "Coming Soon/Maintenance Mode Option"
+msgstr ""
+
+#: customizer.php:1561
+msgid "Translation Ready"
+msgstr ""
+
+#: customizer.php:1562
+msgid "Free Updates"
+msgstr ""
+
+#: customizer.php:1563
+msgid "Quick Support"
+msgstr ""
+
+#: customizer.php:1572
+#, php-format
+msgid ""
+"If you Like our Products , Please Rate us 5 star on %1$sWordPress.org%2$s.  "
+"We'd really appreciate it! </br></br>  Thank You"
+msgstr ""
+
+#: default_options.php:26 default_options.php:30 default_options.php:34
+msgid "Lorem ipsum dolor"
+msgstr ""
+
+#: default_options.php:27 default_options.php:31 default_options.php:35
+msgid "Nulla quam sem vel id"
+msgstr ""
+
+#: default_options.php:40
+msgid "Our <span>Services</span>"
+msgstr ""
+
+#: default_options.php:41
+msgid "We provide best solution for your business"
+msgstr ""
+
+#: default_options.php:43
+msgid "Responsive"
+msgstr ""
+
+#: default_options.php:45 default_options.php:50
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit "
+"amet."
+msgstr ""
+
+#: default_options.php:48
+msgid "Retina Ready"
+msgstr ""
+
+#: default_options.php:53
+msgid "Multi Layout"
+msgstr ""
+
+#: default_options.php:55 default_options.php:59
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet"
+msgstr ""
+
+#: default_options.php:58
+msgid "Easy To Customize"
+msgstr ""
+
+#: default_options.php:63
+msgid "Our <span>Portfolio</span>"
+msgstr ""
+
+#: default_options.php:64
+msgid "Our Latest <strong>Work</strong>"
+msgstr ""
+
+#: default_options.php:67
+msgid "Our <span>Recent Posts</span>"
+msgstr ""
+
+#: default_options.php:68
+msgid "Etiam sit amet orci eget eros faucibus tincidunt."
+msgstr ""
+
+#: default_options.php:73
+msgid "No older posts found"
+msgstr ""
+
+#: default_options.php:74
+msgid "Loading"
+msgstr ""
+
+#: default_options.php:75
+msgid "Load More"
+msgstr ""
+
+#: default_options.php:79
+msgid "Best Wordpress Resposnive Theme Ever!"
+msgstr ""
+
+#: default_options.php:80
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered alteration in some form, by injected humour of this "
+"randomised words which don't look even slightly believable If you are going "
+"to use a passage of Lorem Ipsum."
+msgstr ""
+
+#: default_options.php:81
+msgid "Purchase Now"
+msgstr ""
+
+#: default_options.php:99
+msgid "Awada Theme"
+msgstr ""
+
+#: default_options.php:100
+msgid "Developed By"
+msgstr ""
+
+#: default_options.php:101
+msgid "Webhunt Infotech"
+msgstr ""
+
+#: footer.php:47
+msgid "Scroll to Top"
+msgstr ""
+
+#: functions.php:27
+msgid ""
+"Visit our site for more great Products.If you like this theme please rate us "
+"5 star"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:50 functions.php:174
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:51 functions.php:183
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:156 functions.php:165
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:241
+msgid "Read More..."
+msgstr ""
+
+#: functions.php:254
+msgid "Primary Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:256
+msgid "Right sidebar widget area"
+msgstr ""
+
+#: functions.php:263
+msgid "Secondary Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:265
+msgid "Left sidebar widget area"
+msgstr ""
+
+#: functions.php:272
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:274
+msgid "Footer widget area"
+msgstr ""
+
+#: functions.php:306
+msgid "Category "
+msgstr ""
+
+#: functions.php:332 search.php:63
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:360
+msgid "Search results for "
+msgstr ""
+
+#: functions.php:363
+msgid "Tag "
+msgstr ""
+
+#: functions.php:367
+msgid "Articles posted by: "
+msgstr ""
+
+#: functions.php:369
+msgid "Error 404 "
+msgstr ""
+
+#: functions.php:409
+msgid "Older"
+msgstr ""
+
+#: functions.php:410
+msgid "Newer"
+msgstr ""
+
+#: functions.php:508
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:512
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:617
+msgid " Comments"
+msgstr ""
+
+#: functions.php:623
+msgid "Comments Off"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:15
+msgid "Awada Footer Contact"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:16
+msgid "Your contact details"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:39
+msgid "25, Lorem Lis Street"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:44
+msgid "987-654-321"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:49
+msgid "mail@me.com"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:53
+msgid "myemail@gmail.com"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:70
+msgid "Contact Info"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:76
+msgid "0764-989879"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:82
+msgid "contact@me.com "
+msgstr ""
+
+#: functions/custom/contact-widgets.php:88
+msgid "http://www.example.com"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:94
+msgid "NewYork"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:99 functions/custom/recent-posts.php:63
+#: functions/custom/recent-posts.php:136
+msgid "Title:"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:102
+msgid "Contact phone number:"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:106
+msgid "E-mail address:"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:110
+msgid "Website :"
+msgstr ""
+
+#: functions/custom/contact-widgets.php:115
+msgid "Contact address:"
+msgstr ""
+
+#: functions/custom/recent-posts.php:18
+msgid "Awada Recent Posts"
+msgstr ""
+
+#: functions/custom/recent-posts.php:19
+msgid "Display Recent posts on your sites"
+msgstr ""
+
+#: functions/custom/recent-posts.php:25
+msgid "Receent Posts"
+msgstr ""
+
+#: functions/custom/recent-posts.php:42
+msgid "Read More Posts"
+msgstr ""
+
+#: functions/custom/recent-posts.php:55
+msgid "Recent Post"
+msgstr ""
+
+#: functions/custom/recent-posts.php:67
+msgid "Number of pages to show:"
+msgstr ""
+
+#: functions/custom/recent-posts.php:71
+msgid "Read More Posts URL:"
+msgstr ""
+
+#: functions/custom/recent-posts.php:94
+msgid "Awada Archieves"
+msgstr ""
+
+#: functions/custom/recent-posts.php:95
+msgid "Awada Archieves Widget"
+msgstr ""
+
+#: functions/custom/recent-posts.php:102 functions/custom/recent-posts.php:108
+#: functions/custom/recent-posts.php:132
+msgid "Archives"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "PERFECT THEME"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "QUICK SUPPORT"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "RESPONSIVE THEME"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "MULTIPLE COLOR SCHEME"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "RETINA READY"
+msgstr ""
+
+#: home-portfolio.php:18
+msgid "AMAZING SHORTCODES"
+msgstr ""
+
+#: home-slider.php:53
+msgid "Previous"
+msgstr ""
+
+#: home-slider.php:54
+msgid "Next"
+msgstr ""
+
+#: inc/dashboard.php:157
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+
+#: inc/dashboard.php:300
+msgid ""
+"Awada theme is now installed and ready to use! We want to make sure you have "
+"the best experience using Awada theme and that is why we gathered here all "
+"the necessary information for you. We hope you will enjoy using Awada theme."
+msgstr ""
+
+#: inc/dashboard.php:303
+msgid "awada"
+msgstr ""
+
+#: inc/dashboard.php:304
+msgid "Actions Required"
+msgstr ""
+
+#: inc/dashboard.php:305
+msgid "Changelog"
+msgstr ""
+
+#: inc/dashboard.php:315
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/dashboard.php:318
+msgid "Start Customize"
+msgstr ""
+
+#: inc/dashboard.php:322
+msgid "Create a child theme"
+msgstr ""
+
+#: inc/dashboard.php:323
+msgid ""
+"If you want to make changes to the theme's files, those changes are likely "
+"to be overwritten when you next update the theme. In order to prevent that "
+"from happening, you need to create a child theme. For this, please follow "
+"the documentation below."
+msgstr ""
+
+#: inc/dashboard.php:324 inc/dashboard.php:330
+msgid "View how to do this"
+msgstr ""
+
+#: inc/dashboard.php:328
+msgid "Gallery in Blog Posts"
+msgstr ""
+
+#: inc/dashboard.php:329
+msgid ""
+"If you want to use more than one images in your post or want to make gallery "
+"images in your post. This can be accomplished by following the documention "
+"below."
+msgstr ""
+
+#: inc/dashboard.php:333
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: inc/dashboard.php:362
+msgid "Recommend Plugins"
+msgstr ""
+
+#: inc/dashboard.php:379
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+
+#: inc/dashboard.php:381
+msgid ""
+"In order to Display Home page for your website, please go to Customize -&gt; "
+"Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr ""
+
+#: inc/dashboard.php:384 inc/dashboard.php:408
+msgid "Setup front page displays"
+msgstr ""
+
+#: inc/dashboard.php:398
+msgid "Set your homepage page template to \"Home\"."
+msgstr ""
+
+#: inc/dashboard.php:401
+msgid ""
+"In order to change homepage section contents, you will need to set template "
+"\"Home\" for your homepage."
+msgstr ""
+
+#: inc/dashboard.php:415
+msgid "Change homepage page template"
+msgstr ""
+
+#: inc/dashboard.php:424
+#, php-format
+msgid "Keep update with %s"
+msgstr ""
+
+#: inc/dashboard.php:425
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/functions.php:5
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/functions.php:10
+msgid "Please define an FontAwesome icon."
+msgstr ""
+
+#: search.php:5
+#, php-format
+msgid "Search Results For: \"%s\""
+msgstr ""
+
+#: search.php:66
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""

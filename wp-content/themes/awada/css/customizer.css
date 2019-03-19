@@ -1,0 +1,65 @@
+/*Cutomizer CSS*/
+.awada-accordion-section-title {
+    color: #0073aa;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    padding: 10px 10px 11px 14px;
+    line-height: 21px;
+    background: #FFF;
+    margin: 0 -12px 0;
+    border-left: 4px solid #0073aa
+}
+#slider .customize-partial-edit-shortcut button{
+	left:0px;
+}
+#accordion-section-awada_pro h3.accordion-section-title{
+
+	background: #31a3dd;
+
+	color:#fff;
+}
+#customize-controls #accordion-section-awada_pro .accordion-section-title:focus, #customize-controls #accordion-section-awada_pro .accordion-section-title:hover, #customize-controls #accordion-section-awada_pro.open .accordion-section-title, #customize-controls #accordion-section-awada_pro:hover>.accordion-section-title{
+  background: #0073aa;
+  color: #fff;
+}
+#customize-theme-controls #accordion-section-awada_pro .accordion-section-title:after{
+  color:#fff;
+}
+.btn-lg, .btn-group-lg > .btn {
+
+  padding: 10px 16px;
+
+  font-size: 18px;
+
+  line-height: 1.33;
+
+  border-radius: 6px;
+
+}
+.upsell-btn > .btn-success {
+    color: #fff;
+    background-color: #31a3dd;
+    border-color: #31a3dd;
+}
+.upsell-btn > .btn-success:hover {
+    color: #fff;
+    background-color: #0073aa;
+    border-color: #31a3dd;
+}
+.upsell-btn{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.upsell-btn-bottom{
+  margin-top:20px;
+}
+.upsell-btn > a{
+	text-decoration:none;
+}
+.upsell-btn > a.btn.btn-success.btn {
+    padding: 10px;
+    border-radius: 6px;
+}
+.customize-control-kirki-radio-image label {
+    margin-left: 4px;
+}

@@ -1,0 +1,69 @@
+/*
+	Theme Name: iBiz
+	Description: iBiz is a Child-Theme of Awada. iBiz is a great design idea for website of Creative Corporate, Corporation, Company Profile, Personal Portfolio, Wedding, Events and more … Create Outstanding Website or Blog in Minutes!. Awesome Design, Unique Concepts, Scalable Responsive, Amazing flexibility.
+	Version: 0.4
+	Author: WebHunt Infotech
+	Template: awada
+	Author URI: http://www.webhuntinfotech.com
+	Website: http://www.webhuntinfotech.com
+	Tags: full-width-template, translation-ready, blog
+	Text Domain: ibiz
+*/
+body {
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    color: #000 !important;
+}
+#awada-header .site-branding-text p.site-description{
+	margin: 0;
+}
+.blog-header h3 {
+    font-size: 25px !important;
+}
+.blog-meta span i, .blog-meta span {
+    font-size: 15px !important;
+}
+.servicelayout h3 {
+	font-size: 25px;
+}
+p#callout_description {
+    font-size: 22px;
+}
+.service-icon-square {
+    -webkit-border-radius: 0 100px 100px;
+    -moz-border-radius: 0 100px 100px;
+    border-radius: 0 100px 100px;
+}
+#awada_footer_area #s {
+    width: 100%;
+    padding: 20px 10px;
+    margin: 0;
+}
+.breadcrumb {
+	position: unset !important;
+	padding: 50px 0 0px !important;
+}
+@media only screen and (max-width: 1199px){
+	.awada_pag_title{
+		text-align: center;
+	}
+	.breadcrumb.pull-right{
+		float: none !important;
+		text-align: center;
+	}
+	.breadcrumb{
+		padding: 20px 0 0px !important;
+	}
+	.post-wrapper-top h2{
+		padding: 0px 0 20px !important;
+	}
+}
+@media (max-width: 767px){
+	h1.site-title {
+		position: unset !important;
+	}
+}
+.gallery figure.gallery-item {
+    display: inline-block;
+    padding: 10px;
+}

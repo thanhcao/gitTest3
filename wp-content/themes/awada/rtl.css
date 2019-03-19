@@ -1,0 +1,417 @@
+/* rtl.css */
+body[dir=rtl] {
+    .fa-arrow-dir { &:before { content: $fa-var-arrow-left; } };
+    .fa-arrow-flipdir { &:before { content: $fa-var-arrow-right; } };
+}
+a.navbar-brand {
+    background: url(images/logo.png) no-repeat scroll right top rgba(0, 0, 0, 0);
+    padding-right: 55px !important;
+	padding-left: 0;
+}
+
+#topbar-contact{
+	float:right;
+}
+#topbar-social-links{
+	float:left;
+}
+#awada-header .dropmenu .dropdown-menu {
+    right: auto;
+    left:auto;
+}
+
+#awada-header .dropdown-menu {
+    right: 0;
+    left: 0;
+}
+
+#awada-header .dropdown-menu li {
+    text-align: right;
+}
+
+/* 14-DES-2016 */
+.nav .fa:not(.top-social) {
+    float: left;
+}
+
+@media screen and (min-width: 48em) {
+
+}
+
+@media (min-width: 768px) {
+.navbar-header {
+    float: right;
+}
+}
+/* 14-DES-2016 */
+.nav .fa:not(.top-social) {
+    float: left;
+}
+
+
+@media screen and (min-width: 48em){
+}
+
+@media (max-width: 767px) {
+
+}
+
+.topbar-social-links span a {
+    float:right;
+}
+
+#sitetopbar .topbar-contact-phone,
+#sitetopbar .topbar-contact-email {
+    border-left:none;
+	border-right: none;
+}
+
+.dropmenu .dropdown-submenu>.dropdown-menu {
+    right:100% !important;
+    margin-right:-1px;
+	left: auto;
+	margin-left: auto;
+}
+
+.dropmenu .dropdown-submenu.pull-right>.dropdown-menu {
+    right:-100%;
+    margin-right:10px;
+	left: auto;
+	margin-left: auto;
+}
+
+/* ----------------------------------------------------
+FOOTER SECTION STYLES
+------------------------------------------------------- */
+
+.footer-area-menu li {
+    float:right;
+}
+
+/* ----------------------------------------------------
+SIDEBAR AREA & WIDGETS STYLES
+------------------------------------------------------- */
+
+.blog-meta span i,
+.blog-meta span {
+    padding-left:5px;
+	padding-right: 0;
+}
+
+.post-type {
+    left: 0;
+	right: auto;
+}
+
+.tagcloud a {
+    float: right;
+    margin-left: 6px;
+	margin-right: auto;
+}
+
+.recent_posts_widget img {
+    float: right;
+    margin: 5px 0 0 15px;
+}
+
+/* ----------------------------------------------------
+PORTFOLIO SECTION STYLES
+------------------------------------------------------- */
+
+.magnifier {
+    right:0;
+    left:0;
+}
+
+/* ----------------------------------------------------
+SECTIONS STYLES
+------------------------------------------------------- */
+
+#boxed #wrapper, .boxed #wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+/* ----------------------------------------------------
+MODULES
+------------------------------------------------------- */
+
+.tab-content {
+    border-right:1px solid #efefef;
+    border-left:1px solid #efefef;
+}
+
+.nav-tabs > li > a {
+    margin-left: 0;
+	margin-right: auto;
+}
+
+.awadatop {
+    left: 25px;
+	right: auto;
+}
+
+.arrow-up {
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    right: 0;
+    left: 0;
+}
+
+/* Error Page 404 */
+
+/* ----------------------------------------------------
+BLOG SECTIONS
+------------------------------------------------------- */
+
+.comment-avatar {
+    margin: 0 0 0 20px;
+    float: right;
+}
+
+.comment-meta {
+    padding-right:10px;
+	padding-left: 0;
+}
+
+.comment-reply {
+    margin:-10px 0 0 -5px;
+    float: left;
+}
+
+.authorbox_wrapper img {
+    margin:0 0 20px 20px;
+}
+
+.post-wrapper-top {
+    right: 0;
+    left: 0;
+    text-align: right;
+}
+
+.breadcrumb {
+    left: 0;
+	right: auto;
+}
+
+.pagination > li > a, 
+.pagination > li > span {
+    float: right;
+    margin-right: 5px;
+	margin-left: auto;
+}
+
+.quote-post:after {
+    padding-left:20px;
+    left:0;
+	right: auto;
+	padding-right: 0;
+}
+
+.quote-post blockquote {
+    border-right:0px solid #fff;
+	border-left: none;
+}
+
+/* ----------------------------------------------------
+COLOR SCHEMES
+------------------------------------------------------- */
+
+/* Extra CSS */
+
+/* Blog Masonry Pagination */
+
+/* Comment Form Section */
+p.form-submit,
+p.logged-in-as,
+ul.children ,
+p.comment-notes {
+    margin-right: 2%;
+	margin-left: auto;
+}
+
+/* Image Logo */
+
+a.navbar-brand {
+    padding-right: 15px !important;
+	padding-left: 0;
+}
+
+/* Sidebar Widget */
+
+#sidebar .widget > ul > li.cat-item > a, #sidebar .widget > ul.cat_list_widget > li > a, #sidebar .widget > ul > li.page_item > a, #sidebar .widget > div.menu-header-menu-container > ul.menu > li.menu-item > a, #sidebar .widget > div.menu-header-menu-container > ul.menu > li.menu-item > ul.sub-menu > li.menu-item > a, #sidebar .widget > div.menu-header-menu-container ul.sub-menu li.menu-item > a {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+#sidebar .widget li.cat-item, #sidebar .widget > ul.cat_list_widget > li, #sidebar .widget li.page_item, #sidebar .widget li.menu-item, #sidebar .widget > div.menu-header-menu-container ul.sub-menu  li.menu-item {
+    border-right: 0 solid #efefef !important;
+    border-left: 0 solid #efefef !important;
+}
+
+#sidebar .widget > div.menu-header-menu-container ul.sub-menu  li.menu-item {
+    margin-right: 20px;
+	margin-left: auto;
+}
+
+/* Default Style */
+/* Text meant only for screen readers. */
+
+.screen-reader-text:focus {
+    right: 5px;
+	left: auto;
+}
+
+.alignright {
+    margin-left: 15px;
+	margin-right: auto;
+}
+
+.alignleft {
+    margin-right: 15px;
+	margin-left: auto;
+}
+
+/* Header Menu Left Align */
+@media (min-width: 768px) {
+
+.alignleft {
+    margin-right: 15px;
+	margin-left: auto;
+}
+
+}
+
+@media (min-width: 992px) {
+
+/* Header Menu Left Align */
+@media (min-width: 768px) {
+
+.alignleft {
+    margin-right: 15px;
+	margin-left: auto;
+}
+
+}
+
+}
+
+/* Remove Portfolio Title */
+
+/* Menu Margin */
+#awada-header .navbar-nav > li > a {
+    margin-right: 0px;
+    margin-left: 5px;
+}
+
+.topbar-contact {
+    float: right;
+}
+
+.topbar-social-links {
+    float: left;
+}
+
+#sitetopbar .topbar-contact-email,
+#sitetopbar .topbar-contact-phone {
+    border-left:0px solid #f2f2f2;
+    border-right:0px solid #f2f2f2;
+}
+
+/* Header Styling */
+
+#header_shadow {
+    right: 0;
+    left: 0;
+}
+
+.awada-header-fixed.affix {
+    right: 0;
+	left: auto;
+}
+
+/* Current Menu Color */
+
+/* Blog */
+
+.awada_blog_shadow, .awada_blog_shadow_main {
+    right: 0;
+    left: 0;
+}
+
+@media (max-width: 1199px) {
+
+.awada_blog_shadow, .awada_blog_shadow_main {
+    right: 0;
+    left: 0;
+}
+
+}
+
+.awada_callout_shadow {
+    right: 0;
+    left: 0;
+}
+
+#sidebar .title h2:after {
+    left: -19px;
+	right: auto;
+}
+
+#sidebar .widget .btn-lg {
+    margin-right: 20px;
+	margin-left: auto;
+}
+
+#two-sidebar .widget .btn-lg {
+    margin-right: 5px;
+	margin-left: auto;
+}
+
+.search_form:after {
+    left: 37px;
+	right: auto;
+}
+
+/* Shop Items */
+
+/* Sidebar version 0.9 date 06/08/2016 */
+
+#sidebar .title h2:after {
+    left: -19px;
+	right: auto;
+}
+
+#sidebar .widget .btn-lg {
+    margin-right: 20px;
+	margin-left: auto;
+}
+
+#two-sidebar .widget .btn-lg {
+    margin-right: 5px;
+	margin-left: auto;
+}
+
+.search_form:after {
+    left: 37px;
+	right: auto;
+}
+
+/* Sidebar Menu */
+#sidebar .widget li.menu-item a {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+#sidebar .widget ul.children li.menu-item a {
+    margin-left: 2px;
+	margin-right: auto;
+}
+
+#sidebar .widget ul.children li.page_item a {
+    margin-left: 2px;
+	margin-right: auto;
+}
+#awada_footer_area .widget ul {
+    padding: 0 0 0 10px;
+}
